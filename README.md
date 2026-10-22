@@ -12,6 +12,12 @@ Proyecto de diseño, implementación y auditoría de una base de datos relaciona
 
 ---
 
+## 📐 Modelo Entidad-Relación (DER)
+
+![Diagrama Entidad-Relación](docs/der.png)
+
+---
+
 ## 🗂️ Modelo de Datos & Arquitectura
 
 El esquema contempla una relación M:N (muchos a muchos) entre `lectores` y `libros` gestionada mediante la tabla intermedia `libros_lectores`, además de un sistema de trazabilidad automática mediante `devolucion_log`.
