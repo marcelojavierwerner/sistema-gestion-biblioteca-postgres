@@ -83,7 +83,3 @@ FROM libros_lectores ll
 INNER JOIN lectores l ON ll.id_lectores = l.id
 INNER JOIN libros b ON ll.id_libros = b.id;
 ```
-
-   * `03_views.sql`
-   * `04_functions.sql`
-   * `05_triggers.sql`
