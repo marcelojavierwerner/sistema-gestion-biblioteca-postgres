@@ -14,7 +14,9 @@ Proyecto de diseño, implementación y auditoría de una base de datos relaciona
 
 ## 📐 Modelo Entidad-Relación (DER)
 
+
 ![Diagrama Entidad-Relación](docs/der.png)
+
 
 ---
 
